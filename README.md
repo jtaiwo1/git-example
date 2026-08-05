@@ -1,3 +1,16 @@
 # git-example
 This is a demonstration of using Git
-I am trying to get comfortable with using markdown files, Git, and GitHub to get a clear understanding of how collaboration works in real-time. So far, things are fairly smooth sailing.
+- joseph
+1. ha
+2. ha
+3. ha
+
+_hello_
+**hello**
+
+
+``` javascript
+console.log("Hello World")
+```
+
+This is me practicing making a git commit and creating additional branches.
